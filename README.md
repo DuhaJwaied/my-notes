@@ -47,9 +47,9 @@ The equation is simple: D=V/E
  
 9. Solving Problems
  
- 1.The first step is understanding.
-2.The second step is planning
-3.The third step is dividing  Don’t try to solve one big problem
+A.The first step is understanding.
+B.The second step is planning
+C.The third step is dividing  Don’t try to solve one big problem
 
 10.You can’t predict the future, so no matter how generic your solution is, it will not be generic enough to satisfy the actual future requirements you will have.
  
