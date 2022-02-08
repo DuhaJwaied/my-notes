@@ -59,3 +59,6 @@ C.The third step is dividing  Don’t try to solve one big problem
  
 11.One of the great killers of a software project is assumptions
 Code should be designed based on what you know now, not on what you think will happen in the future. 
+
+ 
+ thanks
